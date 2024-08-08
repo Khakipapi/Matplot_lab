@@ -9,7 +9,6 @@ This project provides a Python script to display information about the 50 U.S. s
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
@@ -19,20 +18,6 @@ This project provides a Python script to display information about the 50 U.S. s
 - [Contributors](#contributors)
 - [License](#license)
 
-## Installation
-
-To run this project, you need to have Python installed along with the required libraries. Follow the steps below to set up the environment:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/us-states-info.git
-    cd us-states-info
-    ```
-
-2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
